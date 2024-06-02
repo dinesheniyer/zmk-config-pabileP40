@@ -1,0 +1,2 @@
+config SHIELD_PABILE40V3
+	def_bool $(shields_list_contains,pabile40v3)
